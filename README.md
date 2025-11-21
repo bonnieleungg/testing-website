@@ -1009,7 +1009,7 @@
       <div class="hero">
         <div>
           <div class="section-kicker">首頁 · YouFind AIPO</div>
-          <h1 class="hero-title">從 SEO 到 GEO：AI時代的新一代能見度戰場</h1>
+          <h1 class="hero-title">從 SEO 到 AIPO：AI時代的新一代能見度戰場</h1>
           <div class="hero-subtitle">AI時代，流量之外的品牌決策點！</div>
           <p class="section-lead">
             近半數的 Google 搜索已顯示 AI 摘要，您的網站也許排名靠前，但在 AI 回答中卻完全沒有被提及。這代表當客戶向 AI 發問時，真正被推薦的，可能是您的競爭對手。
