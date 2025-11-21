@@ -155,3 +155,33 @@
       </tbody>
     </table>
   </section>
+<section id="growth">
+    <h2>Full Funnel Growth</h2>
+    <p>Our full funnel strategy combines paid media, SEO, AI-powered optimization, and reputation management for year-over-year growth. Key components include:</p>
+    <ul>
+      <li>Google Meta Ads</li>
+      <li>SEO optimization</li>
+      <li>AIPO AI integration</li>
+      <li>Ultimate Moment Of Truth narrative management</li>
+      <li>Continuous optimization cycles</li>
+    </ul>
+  </section>
+
+  <section id="cta">
+    <h2>Call to Action</h2>
+    <p>Ready to take your SEO and AI optimization to the next level? Contact us today to schedule your demo or start your subscription plan!</p>
+    <button onclick="window.location.href='mailto:contact@youfindgeo.com'">Contact Us</button>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 YouFind GEO. All rights reserved.</p>
+  <p>
+    Connect with us on
+    <a href="https://twitter.com/youfindgeo" target="_blank">Twitter</a> |
+    <a href="https://linkedin.com/company/youfindgeo" target="_blank">LinkedIn</a> |
+    <a href="https://facebook.com/youfindgeo" target="_blank">Facebook</a>
+  </p>
+</footer>
+</body>
+</html>
